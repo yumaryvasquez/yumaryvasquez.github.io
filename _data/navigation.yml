@@ -12,11 +12,10 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
- # - title: "RadioBio"
- #   url: <a class="page-link" href="https://www.radiobio.net">RadioBio</a> 
- <a class="page-link" href="https://www.radiobio.net">RadioBio</a> 
+  - title: "RadioBio"
+    url: https://www.radiobio.net
     
- # - title: "CV"
- #   url: <a class="page-link" href="/assets/VasquezCV.pdf">CV</a>
+  - title: "CV"
+    url: /files/VasquezCV.pdf
     
 
