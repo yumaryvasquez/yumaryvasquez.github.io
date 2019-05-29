@@ -9,8 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
+ 
+   - title: "Research"
+    url: /research/
         
   - title: "RadioBio"
     url: https://www.radiobio.net
