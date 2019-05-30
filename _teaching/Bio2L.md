@@ -2,7 +2,7 @@
 title: "Intro to Molecular Biology Lab"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Bio2L
+<!-- permalink: /teaching/Bio2L -->
 venue: "UC Merced, Biological Sciences"
 date: Fall 2018, Spring 2019
 location: "Merced, California"
