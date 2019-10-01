@@ -2,9 +2,9 @@
 title: "Evolution Lab"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Bio141 
+permalink: /teaching/Bio141
 venue: "UC Merced, Biological Sciences"
-date: Summer 2019
+date: Summer 2018
 location: "Merced, California"
 ---
 
