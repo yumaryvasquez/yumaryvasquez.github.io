@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 excerpt: ""
 collection: research
 ---
