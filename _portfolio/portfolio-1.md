@@ -1,9 +1,9 @@
 ---
 permalink: /portfolio/
-title: "research"
+title: "Research"
 excerpt: ""
-collection: research
+collection: Research
 
 ---
-  I am studying endemic Hawaiian leafhoppers (Nesophrosyne).
+  under construction
 
