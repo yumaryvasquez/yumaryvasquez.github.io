@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Bio141 
 venue: "UC Merced, Biological Sciences"
-date: Summer 2019
+date: 2019-06-12
 location: "Merced, California"
 ---
 
